@@ -6,7 +6,6 @@
 int main(int argc, char* argv[])
 {
 	FILE*	file = NULL;
-	ssize_t	read;
 	size_t	n = 0;
 	char*	lineptr = NULL;
 	int		out = 0;
